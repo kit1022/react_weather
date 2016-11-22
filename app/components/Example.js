@@ -2,6 +2,6 @@ import React, {Component} from 'react';
 
 export default (props) => {
 	return(
-			<div>Example Component!</div>
+			<div><h3>Example Component!</h3></div>
 		)
 };
